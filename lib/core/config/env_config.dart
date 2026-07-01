@@ -55,3 +55,4 @@ class NimConfig {
   /// true = Dark Mode wajib, false = Light Mode wajib.
   static bool get isDarkModeRequired => isOddNim;
 }
+
