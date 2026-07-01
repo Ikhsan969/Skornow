@@ -338,6 +338,3 @@ class _EmptyView extends StatelessWidget {
     );
   }
 }
-/ /   R e d e s a i n   U I   -   D a r k   M o d e   T i c k e r   F e a t u r e d C a r d 
- 
- 
